@@ -1,0 +1,4 @@
+language: shell
+rvm:
+ - 2.2
+ - rbx-2  
